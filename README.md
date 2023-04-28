@@ -27,16 +27,18 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     0 secs              ███████████████████░░░░░░   77.19 % 
+CSS                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2023 15:05:37 UTC
+ Last Updated on 28/04/2023 15:05:33 UTC
 <!--END_SECTION:waka-->
 </div>
