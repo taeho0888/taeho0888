@@ -9,7 +9,7 @@
 **taeho0888/taeho0888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2032%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -27,16 +27,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   100.00 % 
+YAML                     1 min               ████████████████████████░   96.39 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/06/2023 15:06:03 UTC
+ Last Updated on 25/06/2023 15:06:13 UTC
 <!--END_SECTION:waka-->
 </div>
