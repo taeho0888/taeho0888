@@ -47,6 +47,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 </div>
+</br></br>
 
 ## 📊 Stats
 
@@ -96,9 +97,14 @@ Last Updated on 18/09/2023 15:07:46 UTC
 
 <!--END_SECTION:waka-->
 </div>
+</br></br>
 
-## ETC
+## 🎸 ETC
 
 ### BOJ
 
+<div align="center">
+
 ![taeho08888's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=taeho0888)
+
+</div>
