@@ -44,9 +44,16 @@
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeho0888&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeho0888&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeho0888&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeho0888&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/taeho0888">
+    <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeho0888&langs_count=6&hide=C&layout=compact" />
+</a>
+<a href="https://github.com/taeho0888">
+    <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=taeho0888&show_icons=true&bg_color=00000000" />
+</a>
 
 <!--
 **taeho0888/taeho0888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
