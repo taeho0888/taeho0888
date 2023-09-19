@@ -1,5 +1,3 @@
-<!-- <div align="center"> -->
-
 # Hello World 👋
 
 ## 🔧 Skills
@@ -59,8 +57,6 @@
 <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=taeho0888&show_icons=true&bg_color=00000000" />
 </a>
 
-</div>
-
 <!--START_SECTION:waka-->
 
 ---
@@ -95,4 +91,4 @@ Mac                      21 mins             ███████████�
 Last Updated on 18/09/2023 15:07:46 UTC
 
 <!--END_SECTION:waka-->
-<!-- </div> -->
+</div>
