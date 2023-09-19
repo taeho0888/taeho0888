@@ -4,6 +4,8 @@
 
 ## 🔧 Skills
 
+<div align="center">
+
 ### Language
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -42,18 +44,21 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
+</div>
+
 ## 📊 Stats
+
+<div align="center">
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2052%20mins-blue?style=for-the-badge)
 </br></br>
+<a href="https://github.com/taeho0888">
+<img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeho0888&langs_count=6&hide=C&layout=compact" />
+</a>
+<a href="https://github.com/taeho0888">
+<img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=taeho0888&show_icons=true&bg_color=00000000" />
+</a>
 
-<div align="center">
-<a href="https://github.com/taeho0888">
-    <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeho0888&langs_count=6&hide=C&layout=compact" />
-</a>
-<a href="https://github.com/taeho0888">
-    <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=taeho0888&show_icons=true&bg_color=00000000" />
-</a>
 </div>
 
 <!--START_SECTION:waka-->
