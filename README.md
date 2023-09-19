@@ -96,3 +96,9 @@ Last Updated on 18/09/2023 15:07:46 UTC
 
 <!--END_SECTION:waka-->
 </div>
+
+## ETC
+
+### BOJ
+
+![taeho08888's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=taeho0888)
