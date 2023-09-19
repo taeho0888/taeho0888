@@ -52,17 +52,18 @@
 ## 📊 Stats
 
 <div align="center">
-<!--START_SECTION:waka-->
- 
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2017%20mins-bluestyle=for-the-badge)
-</br></br>
+
+</br>
 <a href="https://github.com/taeho0888">
 <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=taeho0888&show_icons=true&bg_color=00000000" />
 </a>
 <a href="https://github.com/taeho0888">
 <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=taeho0888&langs_count=6&hide=C&layout=compact" />
 </a>
+</br></br>
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2017%20mins-blue?style=for-the-badge)
 
 
 
