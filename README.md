@@ -32,6 +32,7 @@
 ![GCP K8S](https://img.shields.io/badge/Google_Kubernetes_Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 </br>
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 ### Coworking tools
