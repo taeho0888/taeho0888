@@ -52,7 +52,7 @@
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2052%20mins-blue?style=for-the-badge)
 
 **I'm a Night 🦉**
 
