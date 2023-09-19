@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 # Hello World 👋
 
@@ -83,4 +83,4 @@ Mac                      21 mins             ███████████�
 Last Updated on 18/09/2023 15:07:46 UTC
 
 <!--END_SECTION:waka-->
-</div>
+<!-- </div> -->
