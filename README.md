@@ -81,18 +81,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Text                     2 mins              ████████████████████░░░░░   79.75 % 
-Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/12/2024 15:08:36 UTC
+ Last Updated on 26/12/2024 15:08:36 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
