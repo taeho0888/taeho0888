@@ -63,8 +63,6 @@
 </br></br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2017%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -91,7 +89,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 17:25:35 UTC
+ Last Updated on 22/05/2026 17:01:21 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
