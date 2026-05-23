@@ -63,33 +63,8 @@
 </br></br>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-🌆 Daytime                277 commits         ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌃 Evening                433 commits         ███████████░░░░░░░░░░░░░░   42.66 % 
-🌙 Night                  243 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 22/05/2026 17:01:21 UTC
+ Last Updated on 23/05/2026 15:53:14 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
