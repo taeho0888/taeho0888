@@ -63,15 +63,15 @@
 </br></br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%206%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-🌆 Daytime                316 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-🌃 Evening                544 commits         ███████████░░░░░░░░░░░░░░   44.12 % 
-🌙 Night                  263 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+🌞 Morning                119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+🌆 Daytime                323 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+🌃 Evening                555 commits         ███████████░░░░░░░░░░░░░░   44.05 % 
+🌙 Night                  263 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 ```
 
 
@@ -81,17 +81,22 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 6 mins         ███████████████░░░░░░░░░░   60.75 % 
+Bash                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 27 mins        ████████████████████░░░░░   79.93 % 
+Claude Code              21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 17:04:13 UTC
+ Last Updated on 14/07/2026 16:07:40 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
