@@ -68,10 +68,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-🌆 Daytime                343 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-🌃 Evening                584 commits         ███████████░░░░░░░░░░░░░░   43.61 % 
-🌙 Night                  268 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+🌞 Morning                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+🌆 Daytime                345 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌃 Evening                587 commits         ███████████░░░░░░░░░░░░░░   43.55 % 
+🌙 Night                  268 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
 
 
@@ -81,21 +81,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     19 mins             ███████████████░░░░░░░░░░   58.93 % 
-Markdown                 10 mins             ████████░░░░░░░░░░░░░░░░░   32.05 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Bash                     19 mins             ████████████████████████░   97.03 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  22 mins             ██████████████████░░░░░░░   70.65 % 
-Claude Code              9 mins              ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+VS Code                  18 mins             ████████████████████████░   95.94 % 
+Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/07/2026 16:13:43 UTC
+ Last Updated on 22/07/2026 16:12:57 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
