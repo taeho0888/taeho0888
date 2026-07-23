@@ -68,10 +68,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-🌆 Daytime                345 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-🌃 Evening                587 commits         ███████████░░░░░░░░░░░░░░   43.55 % 
-🌙 Night                  268 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌞 Morning                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+🌆 Daytime                345 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+🌃 Evening                587 commits         ███████████░░░░░░░░░░░░░░   43.51 % 
+🌙 Night                  268 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
 ```
 
 
@@ -81,19 +81,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     19 mins             ████████████████████████░   97.03 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             ████████████████████████░   95.94 % 
-Claude Code              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/07/2026 16:12:57 UTC
+ Last Updated on 23/07/2026 16:18:30 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
