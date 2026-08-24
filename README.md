@@ -63,17 +63,17 @@
 </br></br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2017%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                276 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-🌆 Daytime                422 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-🌃 Evening                824 commits         ███████████░░░░░░░░░░░░░░   45.88 % 
-🌙 Night                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+🌞 Morning                276 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+🌆 Daytime                424 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+🌃 Evening                829 commits         ███████████░░░░░░░░░░░░░░   45.98 % 
+🌙 Night                  274 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
 ```
 
 
@@ -83,13 +83,13 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/08/2026 15:11:06 UTC
+ Last Updated on 24/08/2026 15:28:11 UTC
 <!--END_SECTION:waka-->
 </div>
 </br></br>
